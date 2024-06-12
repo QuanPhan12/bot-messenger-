@@ -1,0 +1,71 @@
+{
+  "name": "Alice Zuberg",
+  "ID": "61552157895988",
+  "mainROD": "The Blessing From The Sea",
+  "GPS": {
+    "locate": "The Crater",
+    "area": "Crash Zone"
+  },
+  "fishBag": [
+    {
+      "ID": 0,
+      "name": "『 🌸 』➝ Đừng bán con cá này ko là lỗi tao không chịu trách nhiệm đâu",
+      "category": "Unnamed",
+      "size": 999999,
+      "sell": 0
+    },
+    {
+      "ID": 1,
+      "name": "Reaper Leviathan",
+      "category": "Legendary",
+      "size": 5500,
+      "sell": 1679600,
+      "image": "https://i.imgur.com/14sGSJ2.jpg"
+    },
+    {
+      "ID": 2,
+      "name": "Reaper Leviathan",
+      "category": "Legendary",
+      "size": 5500,
+      "sell": 1679600,
+      "image": "https://i.imgur.com/14sGSJ2.jpg"
+    }
+  ],
+  "item": [
+    {
+      "name": "The Blessing From The Sea",
+      "price": 15312350000,
+      "durability": 119980,
+      "countdown": 1,
+      "luck": 95000,
+      "countdownData": 1704533513402,
+      "image": "https://i.imgur.com/S7eXgbY.png"
+    }
+  ],
+  "point": [
+    {
+      "ID": 0,
+      "name": "『 🌸 』➝ Đừng bán con cá này ko là lỗi tao không chịu trách nhiệm đâu",
+      "category": "Unnamed",
+      "size": 999999,
+      "sell": 0
+    },
+    {
+      "ID": 1,
+      "name": "Reaper Leviathan",
+      "category": "Legendary",
+      "size": 5500,
+      "sell": 1679600,
+      "image": "https://i.imgur.com/14sGSJ2.jpg"
+    },
+    {
+      "ID": 2,
+      "name": "Reaper Leviathan",
+      "category": "Legendary",
+      "size": 5500,
+      "sell": 1679600,
+      "image": "https://i.imgur.com/14sGSJ2.jpg"
+    }
+  ],
+  "timeRegister": "19:32:03, 14/12/2023"
+}

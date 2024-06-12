@@ -1,0 +1,38 @@
+{
+  "name": "Alice Zuberg",
+  "ID": "61552157895988",
+  "mainROD": "Steel Rod",
+  "GPS": {
+    "locate": "Asia",
+    "area": "Đông Nam Á"
+  },
+  "fishBag": [
+    {
+      "ID": 0,
+      "name": "Đừng bán con cá này ko là lỗi tao đéo chịu trách nhiệm đâu",
+      "category": "Unnamed",
+      "size": 999999,
+      "sell": 0
+    }
+  ],
+  "point": [
+    {
+      "ID": 0,
+      "name": "Đừng bán con cá này ko là lỗi tao đéo chịu trách nhiệm đâu",
+      "category": "Unnamed",
+      "size": 999999,
+      "sell": 0
+    }
+  ],
+  "item": [
+    {
+      "name": "Steel Rod",
+      "price": 1600,
+      "durability": 40,
+      "countdown": 180,
+      "countdownData": 1704538085162,
+      "image": "https://i.imgur.com/mptiizn.png"
+    }
+  ],
+  "timeRegister": "17:46:08, 6/1/2024"
+}

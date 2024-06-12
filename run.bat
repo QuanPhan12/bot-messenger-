@@ -1,0 +1,2 @@
+title Bot
+npm start
